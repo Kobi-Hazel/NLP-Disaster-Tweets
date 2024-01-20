@@ -1,0 +1,9 @@
+spellchecker==0.5.7
+numpy==1.21.5
+nltk==3.6.5
+scikit-learn==0.24.2
+pandas==1.3.3
+geopy==2.2.0
+spacy==3.1.4
+gensim==4.1.2
+tqdm==4.62.2
