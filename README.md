@@ -1,6 +1,6 @@
 # NLP-Disaster-Tweets
 
-Welcome to my repository for the Kaggle competition "Natural Language Processing with Disaster Tweets". Here, you'll find the source code and associated files for my submission to the competition, which is focused on using NLP techniques to build a model for accurately predicting whether a given tweet is referring to a real disaster or not.
+Welcome to my repository for the Kaggle competition [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started). Here, you'll find the source code and associated files for my submission to the competition, which is focused on using NLP techniques to build a model for accurately predicting whether a given tweet is referring to a real disaster or not.
 
 ## Table of Contents
 
